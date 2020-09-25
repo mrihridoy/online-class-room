@@ -1,0 +1,8 @@
+.section-container{
+  display: flex;
+  padding: 0px 250px !important;
+}
+.course-container{
+  width: 70%;
+  margin-right: 20px;
+}
